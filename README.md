@@ -144,7 +144,7 @@ Then I write code like this.
 
 As well, their interview style is the dungeons and dragons style.
 If you don't know the secret password, then the master does not mention the next keyword or key topic to trigger a memory.
-This style never works for me. I only function well in mature, adult conversations of how to solve problems, not what memorized solution is sought, and one can freely mention language constructs to condsider for each step. No mystery.
+This style never works for me. I only function well in mature, adult conversations of how to solve problems, not what memorized solution is sought, and one can freely mention language constructs to consider for each step. No mystery.
 
 Effectively, they only want developers with work experience.
 I get it.
