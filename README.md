@@ -11,14 +11,14 @@ Effectively, they will ask how to get data from a network call.
 When there are screen changes configuration, when does the app get next network call happen?
 
 They want to say what dependencies to add.
-
+```
 dependencies {
     implementation "com.squareup.retrofit2:retrofit:2.9.0"
     implementation "com.squareup.retrofit2:converter-gson:2.9.0"
     implementation "com.google.dagger:hilt-android:2.38.1"
     kapt "com.google.dagger:hilt-compiler:2.38.1"
 }   
-
+```
 They want to describe what an api interface looks like.
 
 interface ApiService {
