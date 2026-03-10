@@ -148,6 +148,6 @@ This style never works for me. I only function well in mature, adult conversatio
 
 Effectively, they only want developers with work experience.
 I get it.
-After two years at my past role, neuroplasticity of the brain created memories from doing the same thing day-in and day-out.
+After two years in my past role, neuroplasticity of the brain created memories from doing the same thing day-in and day-out.
 Basically, Morgan Stanley is a past-neuroplasticity harvester.
 Get two years of workplace coding elsewhere, then, maybe, you have a shot.
